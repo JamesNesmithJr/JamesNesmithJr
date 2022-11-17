@@ -1,5 +1,5 @@
 ### Hi there! 👋 Welcome to my GitHub!
-**🌱 I’m currently learning the fundementals of JavaScript**
+**🌱 I’m currently learning the fundementals of python**
 <!--
 **JamesNesmithJr/JamesNesmithJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
